@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lucifer00911
-- 👀 I’m interested in sports , learning new things , anything that involves innovation 
-- 🌱 I’m currently learning web devlopment.
+- 👋 Hi, I’m @lucifer00911 
+- 🌱 I’m currently learning full stack web devlopment.
+- 🌱 I'm fluent in JS and Python.
 - 📫 Reach me through my gmail : vharshitkr@gmail.com 
 
 <!---
