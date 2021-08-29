@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucifer00911 
-- 🌱 I’m currently learning full stack web devlopment.
+- 🌱 Backend Web Devloper.
 - 🌱 I'm fluent in JS and Python.
 - 📫 Reach me through my gmail : vharshitkr01@gmail.com 
 
