@@ -2,6 +2,7 @@
 - 🌱 Full Stack Web Devloper.
 - 🌱 I'm fluent in JS and Python.
 - 🌱 Currently learning Java.
+- 🕊 [Twitter](https://twitter.com/hrv_vishwakarma)
 - 📫 Reach me through my gmail : vharshitkr01@gmail.com 
 
 <!---
