@@ -1,3 +1,5 @@
+[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitRV&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @HarshitRV 
 - 🌱 Full Stack Web Devloper.
 - 🌱 I'm fluent in JS and Python.
@@ -6,7 +8,7 @@
 - 📫 Reach me through my [gmail](vharshitkr01@gmail.com) 
 
 
-[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitRV&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
