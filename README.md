@@ -6,7 +6,7 @@
 - 📫 Reach me through my [gmail](vharshitkr01@gmail.com) 
 
 
-[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitRV)](https://github.com/anuraghazra/github-readme-stats)
+[![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitRV?show_icons=true?theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 lucifer00911/lucifer00911 is a Discord Bot repository  `README.md` (this file) appears on your GitHub profile.
