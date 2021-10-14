@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=HarshitRV) <br>
+![](https://komarev.com/ghpvc/?username=HarshitRV) <br><br>
 [![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitRV&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @HarshitRV 
