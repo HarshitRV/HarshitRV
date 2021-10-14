@@ -3,6 +3,7 @@
 # GitHub Stats
 [![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitRV&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+# About Me
 - 👋 Hi, I’m @HarshitRV 
 - 🌱 Full Stack Web Devloper.
 - 🌱 I'm fluent in JS and Python.
