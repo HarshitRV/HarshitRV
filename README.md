@@ -17,7 +17,9 @@
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRV)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p align="center">
+ <img width="100px" src="https://i.pinimg.com/originals/14/97/d7/1497d75d2986338f8ab19c7443de0a5b.jpg" align="center">
+</p>
 <!---
 lucifer00911/lucifer00911 is a Discord Bot repository  `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
