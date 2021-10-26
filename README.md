@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=HarshitRV) <br><br>
-
+# Github Streaks
+https://github-readme-streak-stats.herokuapp.com/?user=HarshitRV&line_height=40&hide_border=true&theme=default
 # GitHub Stats
 [![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitRV&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
