@@ -2,9 +2,10 @@
 # Github Streaks
 ![Harshit's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=HarshitRV&line_height=40&hide_border=true&theme=default)
 
+<p style="text-align:center;">
 # GitHub Stats
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitRV&show_icons=true&theme=radical)
-
+</p>
 
 # About Me
 - 👋 Hi, I’m @HarshitRV 
