@@ -1,6 +1,7 @@
  <img src="https://komarev.com/ghpvc/?username=HarshitRV" alt="">
-<h1>Hello, I'm Harshit Kr Vishwakarma 👋</h1>
+<h1>Hello, I'm Harshit Kr Vishwakarma <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"></h1>
     <div>
+        <img src="https://i.imgur.com/5qCKs3e.png" style="height:300px; border-radius: 10px" alt="banner image">
         <h2>About Me 😃</h2>
         <ul>
             <li>🕸 Full Stack Web Dev.</li>
