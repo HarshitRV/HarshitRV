@@ -18,6 +18,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitRV&line_height=40&hide_border=true&theme=default"
             alt=""><br>
         <img src="https://github-readme-stats.vercel.app/api?username=HarshitRV&show_icons=true&theme=radical" alt="">
+        <img src="https://activity-graph.herokuapp.com/graph?username=HarshitRV&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph%22" alt="activity graph">
     <h2>
         My Skills 🚀
     </h2>
