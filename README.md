@@ -10,6 +10,7 @@
             <li>🐍 Python Dev</li>
             <li>🌱 <a href="https://www.linkedin.com/in/harshit-kr-vishwakarma-b57b8b175/" target="blank">LinkedIn</a>
             </li>
+            <li> Working on <a href="https://github.com/Hritvik-Mohan/Auction-Project" target="blank">Auction App</a>, <a href="https://github.com/HarshitRV/TaskApp" target="blank"> Task App API</a></li>
             <li>🕊 <a href="https://twitter.com/hrv_vishwakarma" target="blank">Twitter</a> </li>
             <li>📫 Reach me through my <a href="mailto:vharshitkr01@gmail.com">email</a></li>
         </ul>
