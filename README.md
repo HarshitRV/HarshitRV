@@ -2,7 +2,7 @@
 <h1>Hello, I'm <a href="https://www.linkedin.com/in/harshit-kr-vishwakarma-b57b8b175/">Harshit Kr Vishwakarma</a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"></h1>
     <div>
         <a href="https://www.linkedin.com/in/harshit-kr-vishwakarma-b57b8b175/">
-        <img src="https://i.imgur.com/5qCKs3e.png" style="height:300px; border-radius: 10px" alt="banner image">
+        <img src="https://i.imgur.com/5qCKs3e.png" style="height:30px; border-radius: 10px" alt="banner image">
     </a>
         <h2>About Me 😃</h2>
         <ul>
