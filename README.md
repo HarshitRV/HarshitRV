@@ -6,7 +6,7 @@
     </a>
         <h2>About Me 😃</h2>
         <ul>
-            <li>🕸 Full Stack Web Dev.</li>
+            <li>🕸 Backend Web Devloper (Node.js)</li>
             <li>🐍 Python Dev</li>
             <li>🌱 <a href="https://www.linkedin.com/in/harshit-kr-vishwakarma-b57b8b175/" target="_blank">LinkedIn</a>
             </li>
