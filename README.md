@@ -6,11 +6,11 @@
     </a>
         <h2>About Me 😃</h2>
         <ul>
+            <li>Learning web3</li>
             <li>🕸 Backend Web Devloper (Node.js)</li>
             <li>🐍 Python Dev</li>
             <li>🌱 <a href="https://www.linkedin.com/in/harshit-kr-vishwakarma-b57b8b175/" target="_blank">LinkedIn</a>
             </li>
-            <li> Working on <a href="https://github.com/Hritvik-Mohan/Auction-Project" target="_blank">Auction App</a>
             <li>🕊 <a href="https://twitter.com/hrv_vishwakarma" target="_blank">Twitter</a> </li>
             <li>📫 Reach me through my <a href="mailto:vharshitkr01@gmail.com">email</a></li>
         </ul>
