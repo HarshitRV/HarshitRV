@@ -3,6 +3,8 @@
 # 💫 About Me <img src="https://komarev.com/ghpvc/?username=HarshitRV" alt="">
 I'm a masters student at VIT, Vellore and actively looking for job opportunities in Tech. I'am skilled at developing backend application using Node and Express, and have worked on building many full stack web application. Currently I am learning about developing applications on Blockchain.
 
+<img src="https://i.imgur.com/os6Jo5I.png" width=100%>
+
 <br>
 
 ## 🌐 Socials:
