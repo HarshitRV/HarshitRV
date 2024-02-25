@@ -1,7 +1,7 @@
 
 
 # 💫 About Me <img src="https://komarev.com/ghpvc/?username=HarshitRV" alt="">
-I'm a masters student at VIT, Vellore and actively looking for job opportunities in Tech. I'am skilled at developing backend application using Node and Express, and have worked on building many full stack web application. Currently I am learning about developing applications on Blockchain.
+Associate Software Developer at Genesys. Experience at building production ready React Application. Apart from frontend I have knowledge and experience of building full stack application usin MERN stack.
 
 <img src="https://i.imgur.com/os6Jo5I.png" width=100%>
 
